@@ -1,0 +1,6 @@
+byki	
+0.42
+lanie	
+0.24
+pozostale	
+0.1

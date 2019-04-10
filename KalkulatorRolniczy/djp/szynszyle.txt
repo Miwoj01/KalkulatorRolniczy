@@ -1,0 +1,6 @@
+Szynszyle samce	
+0.0012
+Szynszyle samice	
+0.0012
+Szynszyle mlode	
+0.0007

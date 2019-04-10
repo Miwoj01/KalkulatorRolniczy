@@ -1,0 +1,36 @@
+Dynia pastewna	
+80
+Kapusta pastewna	
+280
+Kukurydza na zielonke	
+240
+Grunt w uzytkowaniu kosno-pastwiskowym	
+160
+laka 1 pokos	
+60
+laka 2 pokosy	
+120
+laka 3 pokosy	
+160
+laka 4 pokosy	
+220
+Mieszanki zbozowo- straczkowe na zielona mase	
+100
+Mieszanki motylkowe z trawami	
+150
+Owies na zielonke	
+120
+Perko
+140
+Rzepak
+200
+Slonecznik
+120
+Trawy w uprawie polowej
+300
+Zyto na zielonke
+120
+Motylkowe na zielonke: esparceta, komonica, koniczyna, lucerna, nostrzyk i inne
+30
+50
+

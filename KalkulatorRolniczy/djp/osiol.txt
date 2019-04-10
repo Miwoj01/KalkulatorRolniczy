@@ -1,0 +1,6 @@
+osiol powyzej 2 lat	
+0.5
+osiol od 1 roku do 2 lat	
+0.25
+osiol do 1 roku	
+0.07

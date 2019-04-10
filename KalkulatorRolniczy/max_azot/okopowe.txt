@@ -1,0 +1,10 @@
+Burak cukrowy
+180
+Burak pastewny
+200
+Ziemniak pozny
+180
+Ziemniak wczesny
+90
+Inne
+150

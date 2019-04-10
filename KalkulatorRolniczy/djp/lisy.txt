@@ -1,0 +1,12 @@
+lisy pospolite samce	
+0.017
+lisy pospolite samice	
+0.011
+lisy pospolite mlode	
+0.005
+lisy polarne samce	
+0.020
+lisy polarne samice	
+0.016
+lisy polarne mlode	
+0.006

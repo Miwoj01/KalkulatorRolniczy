@@ -1,0 +1,18 @@
+Buhaje
+1.4
+Krowy 
+1
+Krowy powyzej 500 kg masy ciala
+1.2
+Jalowki cielne
+1
+Jalowki powyzej 1 roku 
+0.8
+Jalowki od 6 miesiaca do 1 roku
+0.3
+cieleta do 6 miesiaca
+0.15
+Bydlo opasowe  od 6 miesiaca do 1 roku
+0.36
+Bydlo opasowe  powyzej 1 roku
+0.9

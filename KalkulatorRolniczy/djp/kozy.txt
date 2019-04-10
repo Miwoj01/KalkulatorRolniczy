@@ -1,0 +1,8 @@
+Kozy matki	
+0.15
+Kozleta od 3.5 miesiaca do 1.5 roku	
+0.08
+Kozleta do 3.5 miesiaca	
+0.05
+Pozostale kozy	
+0.1

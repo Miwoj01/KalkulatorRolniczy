@@ -1,0 +1,14 @@
+Drzewa i krzewy owocowe,  truskawki	
+120
+Siewki ozdobnych gatunkow lisciastych	
+150
+Siewki iglastych	
+120
+Krzewy lisciaste	
+140
+Krzewy iglaste	
+80
+Byliny	
+60
+Roze	
+150

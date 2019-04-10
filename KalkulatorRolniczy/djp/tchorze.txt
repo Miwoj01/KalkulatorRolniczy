@@ -1,0 +1,6 @@
+Tchorze samce	
+0.0030
+Tchorze samice	
+0.0016
+Tchorze mlode	
+0.0008

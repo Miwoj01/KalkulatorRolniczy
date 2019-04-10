@@ -1,0 +1,6 @@
+nutrie samce	
+0.009
+nutrie samice	
+0.008
+nutrie mlode	
+0.004

@@ -1,0 +1,6 @@
+mul powyzej 2 lat	
+0.6
+mul od 1 roku do 2 lat	
+0.3
+mul do 1 roku	
+0.1

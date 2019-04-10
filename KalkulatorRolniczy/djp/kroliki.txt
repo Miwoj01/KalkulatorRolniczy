@@ -1,0 +1,6 @@
+kroliki samce	
+0.007
+kroliki samice	
+0.007
+kroliki mlode	
+0.004

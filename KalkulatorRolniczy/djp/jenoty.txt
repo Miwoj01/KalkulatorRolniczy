@@ -1,0 +1,6 @@
+Jenoty samce	
+0.018
+Jenoty samice	
+0.016
+Jenoty mlode	
+0.006

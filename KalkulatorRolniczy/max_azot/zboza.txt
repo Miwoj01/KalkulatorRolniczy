@@ -1,0 +1,26 @@
+Gryka 	
+100
+Jeczmien jary browarny	
+80
+Jeczmien jary pastewny	
+140
+Jeczmien ozimy	
+140
+Kukurydza na ziarno	
+240
+Mieszanki zbozowe na ziarno
+140
+Mieszanki zbozowo-straczkowe na ziarno
+100
+Owies	
+120 
+Pszenica jara
+160
+Pszenica ozima
+200
+Pszenzyto
+180
+zyto populacyjne
+120
+zyto mieszancowe
+150
