@@ -1,0 +1,8 @@
+bawol domowy powyzej 2 lat	
+0.7
+bawol domowy od 1 roku do 2 lat	
+0.4
+bawol domowy od 6 miesiaca do 1 roku	
+0.3
+bawol domowy do 6 miesiaca	
+0.13
